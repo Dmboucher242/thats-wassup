@@ -1,11 +1,84 @@
-
-
-.h1{
-    color: darkslategray;
+.header{
+    color: red;
+    font-size: 50px;
     font-family: sweet-titling-no-22, serif;
     font-weight: 400;
-    font-style: normal;
+    padding-bottom: 100px;
+    height: 150px;
+}
+
+
+.logo{
+    margin-right: 250px; 
+    height: 150px;
+    width: 150px;
+}
+
+.btn-home{
+    color:darkslategray;
+    border: none;
+    background: none;
+    font-family: tuppence, serif;
+    font-style: italic;
     text-align: center;
+    font-size: 30px;
+    position: fixed;
+    left: 0%;
+}
+
+
+.btn-mens {
+    color:darkslategray;
+    border: none;
+    background: none;
+    font-family: tuppence, serif;
+    font-style: italic;
+    text-align: center;
+    font-size: 30px;
+    position: fixed;
+    left: 0%;
+    margin-top: 40px;
+
+}
+
+.nav-link-home{
+    color: darkslategray;
+    font-family: tuppence, serif;
+    font-style: italic;
+    text-align: center;
+    font-size: 15px;
+    position: fixed;
+}
+
+.nav-link-mens{
+    color: darkslategray;
+    font-family: tuppence, serif;
+    font-style: italic;
+    text-align: center;
+    font-size: 15px;
+    position: fixed;
+    font-size: 30px;
+    margin-top: 40px;
+}
+.nav-link-womens{
+    color: darkslategray;
+    font-family: tuppence, serif;
+    font-style: italic;
+    text-align: center;
+    font-size: 15px;
+    position: fixed;
+    font-size: 30px;
+    margin-top: 80px;
+}
+.nav-link-accessories{
+    color: darkslategray;
+    font-family: tuppence, serif;
+    font-style: italic;
+    text-align: center;
+    font-size: 15px;
+    position: fixed;
+    font-size: 30px;
+    margin-top: 120px
 }
 
 p{
@@ -13,12 +86,9 @@ p{
     font-weight: 700;
     font-style: italic;
     text-align: center;
+    margin-left: 23%;
+    margin-right: 20%;
 }
 
-#header{
-    /* background-color: pink; */
-    border-color: red;
-    border-width: 20px;
-    border-radius: 24px;
-}
 
+/* background-image: url(./images/snow.jpg); */
