@@ -23,7 +23,7 @@
     text-align: center;
     font-size: 30px;
     position: fixed;
-    left: 0%;
+    left: 5px;
 }
 
 
@@ -36,50 +36,39 @@
     text-align: center;
     font-size: 30px;
     position: fixed;
-    left: 0%;
+    left: 5px;
     margin-top: 40px;
 
 }
 
-.nav-link-home{
-    color: darkslategray;
+.btn-womens{
+    color:darkslategray;
+    border: none;
+    background: none;
     font-family: tuppence, serif;
     font-style: italic;
     text-align: center;
-    font-size: 15px;
-    position: fixed;
-}
-
-.nav-link-mens{
-    color: darkslategray;
-    font-family: tuppence, serif;
-    font-style: italic;
-    text-align: center;
-    font-size: 15px;
-    position: fixed;
     font-size: 30px;
-    margin-top: 40px;
-}
-.nav-link-womens{
-    color: darkslategray;
-    font-family: tuppence, serif;
-    font-style: italic;
-    text-align: center;
-    font-size: 15px;
     position: fixed;
-    font-size: 30px;
+    left: 5px;
     margin-top: 80px;
 }
-.nav-link-accessories{
-    color: darkslategray;
+
+
+
+.btn-accessories{
+    color:darkslategray;
+    border: none;
+    background: none;
     font-family: tuppence, serif;
     font-style: italic;
     text-align: center;
-    font-size: 15px;
-    position: fixed;
     font-size: 30px;
-    margin-top: 120px
+    position: fixed;
+    left: 5px;
+    margin-top: 120px;
 }
+
 
 p{
     font-family: tuppence, serif;
