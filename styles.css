@@ -1,74 +1,124 @@
 .header{
-    color: red;
+    color: #E36102;
     font-size: 50px;
     font-family: sweet-titling-no-22, serif;
     font-weight: 400;
-    padding-bottom: 100px;
     height: 150px;
 }
-
+.header:hover{
+    color: #346247;
+}
 
 .logo{
-    margin-right: 250px; 
+    margin-right: 120px; 
     height: 150px;
-    width: 150px;
+    width: 275px;
+    margin-left: 10px;
 }
 
 .btn-home{
-    color:darkslategray;
+    color:#FCC001;
     border: none;
     background: none;
     font-family: tuppence, serif;
     font-style: italic;
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
     position: fixed;
-    left: 5px;
+    left: 10px;
 }
 
+.btn-home:hover{
+    color:#0087B7;
+}
+
+.btn-home:focus{
+    outline: none;
+}
 
 .btn-mens {
-    color:darkslategray;
+    color:#0087B7;
     border: none;
     background: none;
     font-family: tuppence, serif;
     font-style: italic;
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
     position: fixed;
-    left: 5px;
-    margin-top: 40px;
+    left: 10px;
+    margin-top: 20px;
 
+}
+
+.btn-mens:hover{
+    color:#FCC001;
+}
+.btn-mens:focus{
+    outline: none;
 }
 
 .btn-womens{
-    color:darkslategray;
+    color:#FCC001;
     border: none;
     background: none;
     font-family: tuppence, serif;
     font-style: italic;
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
     position: fixed;
-    left: 5px;
-    margin-top: 80px;
+    left: 10px;
+    margin-top: 40px;
 }
 
+.btn-womens:hover{
+    color:#0087B7;
+}
 
+.btn-womens:focus{
+    outline: none;
+}
 
 .btn-accessories{
-    color:darkslategray;
+    color:#0087B7;
     border: none;
     background: none;
     font-family: tuppence, serif;
     font-style: italic;
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
     position: fixed;
-    left: 5px;
-    margin-top: 120px;
+    left: 10px;
+    margin-top: 60px;
 }
 
+.btn-accessories:hover{
+    color:#FCC001;
+}
+
+.btn-accessories:focus{
+    outline: none;
+}
+
+.btn-contact{
+    color:#FCC001;
+    border: none;
+    background: none;
+    font-family: tuppence, serif;
+    font-style: italic;
+    text-align: center;
+    font-size: 20px;
+    position: fixed;
+    left: 10px;
+    margin-top: 50px;
+}
+
+.btn-contact:hover{
+    color:#0087B7;
+}
+
+.btn-contact:focus{
+    outline: none;
+}
 
 p{
     font-family: tuppence, serif;
@@ -77,6 +127,7 @@ p{
     text-align: center;
     margin-left: 23%;
     margin-right: 20%;
+    margin-top: -50px;
 }
 
 
